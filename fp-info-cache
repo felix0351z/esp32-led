@@ -1,4 +1,4 @@
-19412875235783092
+19416197210063911
 54-00167
 TENSILITY_54-00167
 
@@ -83054,3 +83054,17 @@ varistor SIOV
 0
 2
 2
+fp_esp32_dev4
+esp32_dev4_right
+
+
+0
+19
+19
+fp_esp32_dev4
+esp32_dev_left
+
+
+0
+19
+19
